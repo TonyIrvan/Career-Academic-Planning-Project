@@ -15,6 +15,20 @@ header {
     border-radius: 0 0 15px 15px;
 }
 
+header .logo {
+    font-size: 2rem;
+    margin-bottom: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+
+header .profession {
+    font-size: 1.2rem;
+    color: #d4af37; /* Light gold accent */
+    text-align: center;
+    margin-bottom: 20px;
+}
+
 nav {
     display: flex;
     flex-direction: column;
