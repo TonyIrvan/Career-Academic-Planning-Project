@@ -78,7 +78,11 @@ main {
     border-radius: 15px;
 }
 
-h1, h2, h3 {
+h1, h2{
+    color: #019f9f; /* Lighter Teal color */
+} 
+
+h3 {
     color: #008080; /* Teal color */
 }
 
