@@ -80,6 +80,7 @@ main {
 }
 
 h1{
+    margin: 0;
     color: #fff; /* White color */
 }
 
@@ -89,6 +90,39 @@ h2{
 
 h3 {
     color: #008080; /* Teal color */
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+    background-color: #fff;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+th, td {
+    padding: 0.75rem;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #008080; /* Teal color */
+    color: #fff;
+}
+
+tfoot td {
+    background-color: #d4af37; /* Light gold accent */
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+}
+
+tfoot td strong {
+    display: block;
+    margin-bottom: 0.5rem;
 }
 
 section {
