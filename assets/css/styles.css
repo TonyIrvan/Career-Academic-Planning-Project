@@ -66,6 +66,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
+    color: #fff;
     background-color: #d4af37; /* Light gold accent */
 }
 
