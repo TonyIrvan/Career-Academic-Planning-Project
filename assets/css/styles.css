@@ -156,6 +156,7 @@ a:hover {
 .image-section {
     text-align: center;
     margin: 2rem 0;
+    padding-bottom: 15px;
 }
 
 .image-section img {
