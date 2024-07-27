@@ -13,7 +13,7 @@ header {
     color: #fff;
     padding: 1rem;
     text-align: center;
-    border-bottom: 5px solid #d4af37; /* Light gold accent */
+    border-bottom: 5px solid #ebc340; /* Light gold accent */
     border-radius: 0 0 15px 15px;
     font-family: 'Roboto', sans-serif; /* New font for the header */
 }
@@ -28,7 +28,7 @@ header .logo {
 
 header .profession {
     font-size: 1.5rem;
-    color: #d4af37; /* Light gold accent */
+    color: #ebc340; /* Light gold accent */
     text-align: center;
     margin-bottom: 20px;
     font-family: 'Montserrat', sans-serif; /* Same font as logo for consistency */
@@ -67,7 +67,7 @@ nav ul li a {
 
 nav ul li a:hover {
     color: #fff;
-    background-color: #d4af37; /* Light gold accent */
+    background-color: #ebc340; /* Light gold accent */
 }
 
 main {
@@ -114,7 +114,7 @@ th {
 }
 
 tfoot td {
-    background-color: #d4af37; /* Light gold accent */
+    background-color: #ebc340; /* Light gold accent */
     color: #fff;
     text-align: center;
     font-weight: bold;
@@ -137,7 +137,7 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
-    border-top: 5px solid #d4af37; /* Light gold accent */
+    border-top: 5px solid #ebc340; /* Light gold accent */
     border-radius: 15px 15px 0 0;
 }
 
@@ -150,7 +150,7 @@ a {
 }
 
 a:hover {
-    color: #d4af37; /* Light gold accent */
+    color: #ebc340; /* Light gold accent */
 }
 
 .image-section {
@@ -160,7 +160,7 @@ a:hover {
 
 .image-section img {
     border-radius: 15px;
-    border: 5px solid #d4af37; /* Light gold accent */
+    border: 5px solid #ebc340; /* Light gold accent */
     max-width: 100%;
     height: auto;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
